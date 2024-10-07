@@ -9,7 +9,7 @@ This project aims to analyze employee attrition patterns within an organization,
 
 
 
-# Report Snapshot (Power BI DESKTOP)
+# Report Snapshot
 
 ![Screenshot 2024-10-07 152350](https://github.com/user-attachments/assets/45ca8a67-3bb8-4902-94fc-1c78f47b7606)
 
