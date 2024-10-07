@@ -12,3 +12,13 @@ This project aims to analyze employee attrition patterns within an organization,
 # Report Snapshot (Power BI DESKTOP)
 
 ![Screenshot 2024-10-07 152350](https://github.com/user-attachments/assets/45ca8a67-3bb8-4902-94fc-1c78f47b7606)
+
+# Insights
+
+   Total Employee Count = 1470
+
+   Attrition Count = 237
+
+   Active Employee = 1233
+
+   Maximum attrition of employees having bachelors degree(42%).
